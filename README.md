@@ -5,7 +5,7 @@ A collection of text-based recipes.
 ## Current Recipes.
 - Spaghetti carbonara
 - Garden Salad
-- Chocolate cake recipe 
+- Chocolate cake 
 
 ## How to contribute
 1. Fork the repository
